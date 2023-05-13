@@ -1,6 +1,5 @@
 # 🚀 ALURABOOKS 
-### Click [here](https://markdownlivepreview.com/) to access the project
-&nbsp; 
+### Click [here](https://heloiselui.github.io/alurabooks/) to access the project
 
 ## 💡 Responsive Layout
 
